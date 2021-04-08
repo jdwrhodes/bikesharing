@@ -19,9 +19,11 @@ This visualization uses a pie chart to show the proportion of each User Type. Th
 Here a heatmap has been used to show the concentration of trips by different hours of the day over a week. It is also grouped by Gender. Male and Female usage appears to occur most from 7-9AM and 4-8PM on weekdays, probably coinciding with daily work commutes. 
 
 ![Trips by Weekday Heatmap](https://raw.githubusercontent.com/jdwrhodes/bikesharing/main/resources/trips_by_weekday1.png 'Trips by Weekday Heatmap')
+
 This heatmat is similar to the one before without breaking down usage by Gender. Again, this shows the most usuage during weekday commute hours
 
 ![Trips by User and Gender Type Heatmap](https://raw.githubusercontent.com/jdwrhodes/bikesharing/main/resources/trips_by_usertype_gender1.png 'Trips by User and Gender Type Heatmap')
+
 This visualization also uses a heatmap, but breaksdown usage by User Type and Gender throughout the week. Here we can see Male Subscribers have a much higher concentration compared to the others.
 
 ## Summary
